@@ -303,6 +303,11 @@ knitr::include_graphics("simple_arch.png")
 - Be cognizant of the dangers of overfitting, data leakage, and biases. 
 - Follow a framework or process that is designed to avoid these common mistakes.
 
+Presentation source, analysis scripts, and data:
+
+https://github.com/rossb34/PredictiveModeling_20180530
+
+https://rossb34.github.io/PredictiveModeling_20180530
 
 ## References
 
