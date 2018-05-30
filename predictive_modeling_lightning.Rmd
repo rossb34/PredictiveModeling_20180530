@@ -309,5 +309,12 @@ https://github.com/rossb34/PredictiveModeling_20180530
 
 https://rossb34.github.io/PredictiveModeling_20180530
 
+## Disclaimer
+
+Disclaimer: Past results do not guarantee future returns. The data and models
+shared in this presentation are for informational purposes only and does not
+offer advice to buy or sell any securities, derivatives, or financial products.
+
+
 ## References
 
